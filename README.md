@@ -1,6 +1,6 @@
 # Lorem Hipsum
 
-Single page application built with React and using Axios to fetch random hipster-style lorem ipsum for web developers
+Single page application built with React, styled with TailwindCSS and using Axios to fetch random hipster-style lorem ipsum for web developers
 
 ## Work in Progress
 
